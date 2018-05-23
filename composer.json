@@ -7,6 +7,9 @@
             "email": "patyrsa@com.gmail"
         }
     ],
+    "type": "library",
+    "license": "As is",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": { "orangedata\\": "" }
